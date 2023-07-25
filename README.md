@@ -11,7 +11,7 @@ Add the package to your package manager.
 ```lua
 use {
     'piero-vic/cmp-ledger',
-    requires = "nvim-lua/plenary.nvim"
+    requires = 'nvim-lua/plenary.nvim'
 }
 ```
 
